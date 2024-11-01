@@ -1,0 +1,14 @@
+*** Synchrony Payments Changelog ***
+
+2024-07-02 - version 1.0.3
+* New: Synchrony Payments Inital Release
+
+2024-10-16 - version 1.0.4
+* New - WooCommerce block support for cart, checkout and MPP banner
+* New - Partner Connections.
+* Add - Promo Override for Multi Promo in Cart
+* Add - Payment language at checkout
+* Add - Added product type description in order notes
+* Fix -Technical enhancements
+
+ 
